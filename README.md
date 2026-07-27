@@ -1,2 +1,3 @@
-# artificial-intelligence-agent-v1
-eagle
+# eagle 🦅
+
+An A.I agent for your common tasks. 
